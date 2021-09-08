@@ -3,8 +3,8 @@ Bachelor project: Deep Reinforcement Learning-based AI algorithms for Atari game
 
 # AI in action 
 ![alt-text](pong.gif)
-!breakout.gif
-!pacman.gif
+![alt-text](breakout.gif)
+![alt-text](pacman.gif)
 
 # Requirements
 Install the version 1.2.1 of atari-py: 
