@@ -6,6 +6,11 @@ Bachelor project: Deep Reinforcement Learning-based AI algorithms for Atari game
 ![alt-text](breakout.gif)
 ![alt-text](pacman.gif)
 
+# Training notebook
+You can find the main training notebook for DQN under (DQN/From pixels/Atari/AtariDQNTrain.py). This notebook can be used to train an agent on various games such as pong, breakout and pacman. 
+
+A pretrained model for pong is also available (AI_Gamer/DQN/From pixels/Atari/trainedmodels/pong.ptm).
+
 # Requirements
 Install the version 1.2.1 of atari-py: 
 '''
