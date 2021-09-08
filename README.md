@@ -2,7 +2,7 @@
 Bachelor project: Deep Reinforcement Learning-based AI algorithms for Atari games
 
 # AI in action 
-!pong.gif
+![alt-text](pong.gif)
 !breakout.gif
 !pacman.gif
 
